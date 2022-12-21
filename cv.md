@@ -1,11 +1,11 @@
-# _ANTON KOROLEV_
+# __ANTON KOROLEV__
 ### Junior Frontend Developer
 ## CONTACT
 #### _Street address_ 
 #### Loznica, Serbia
 
-#### Phone: +381-64-3504-245.
-#### Email: Anton.Korolev063@gmail.com
+#### __Phone:__ +381-64-3504-245.
+#### __Email:__ Anton.Korolev063@gmail.com
 #### [LinkedIn](http://linkedin.com/in/anton-korolev-a37a10257)
 
 ## EDUCATION
@@ -15,7 +15,7 @@
 
 ## JOB EXPERIONS
 
-#### Alliance AVTOVAZ- RENAULT
+#### Alliance AVTOVAZ - RENAULT
 #### Since June 2017 until October 2022
 #### Lead Process engineer
 #### PWT and Chassis technology department
