@@ -1,9 +1,7 @@
 # __ANTON KOROLEV__
 ### Junior Front-end Developer
 ## CONTACT
-#### _Street address_ 
-#### Loznica, Serbia
-
+#### __Street address:__ Serbia, Loznica
 #### __Phone:__ +381-64-3504-245.
 #### __Email:__ Anton.Korolev063@gmail.com
 #### [LinkedIn](http://linkedin.com/in/anton-korolev-a37a10257)
