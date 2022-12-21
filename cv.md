@@ -12,5 +12,11 @@
 ### Technology of mechanical engineering
 ### 2002-2007
 
+## JOB EXPERIONS
+
+#### Alliance AVTOVAZ- RENAULT
+#### Since June 2017 until October 2022
+#### Lead Process engineer
+#### PWT and Chassis technology department
 
 
