@@ -1,3 +1,5 @@
-# ANTON KOROLEV
+# _ANTON KOROLEV_
 ### Junior Frontend Developer
+Horizontal rule:
+----
 
