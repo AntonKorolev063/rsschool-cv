@@ -19,4 +19,10 @@
 #### Lead Process engineer
 #### PWT and Chassis technology department
 
+## SKILLS
+- ### Git, GitHub
+- ### VS Code
+- ### JavaScript Basics
+- ### AutoCAD, DraftSight, MicroStation
+- ### CATIA, UG NX
 
