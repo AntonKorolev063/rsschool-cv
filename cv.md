@@ -1,5 +1,5 @@
 # __ANTON KOROLEV__
-### Junior Frontend Developer
+### Junior Front-end Developer
 ## CONTACT
 #### _Street address_ 
 #### Loznica, Serbia
