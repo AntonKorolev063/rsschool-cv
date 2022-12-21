@@ -6,7 +6,7 @@
 
 #### Phone: +381-64-3504-245.
 #### Email: Anton.Korolev063@gmail.com
-#### [Linkein](http://linkedin.com/in/anton-korolev-a37a10257)
+#### [LinkedIn](http://linkedin.com/in/anton-korolev-a37a10257)
 
 ## EDUCATION
 ### Samara state technical University
